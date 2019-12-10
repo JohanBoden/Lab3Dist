@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Lab3Dist
 {
-    class Program
+    class Library
     {
         static void Main(string[] args)
         {
